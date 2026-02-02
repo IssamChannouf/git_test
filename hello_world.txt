@@ -1,0 +1,1 @@
+Hello Odin! We are currently using git, and trying to learn the basic commands for it 
