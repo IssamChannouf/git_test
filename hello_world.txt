@@ -1,1 +1,2 @@
 Hello Odin! We are currently using git, and trying to learn the basic commands for it 
+I made this change to test the commit in VS Code 
